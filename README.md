@@ -1,3 +1,3 @@
 # Nextion Qwery
 
-Nextion Qweerty keyboar example project for reference.
+3.2" Nextion Qweerty keyboar example project for reference.
