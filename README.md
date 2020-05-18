@@ -1,6 +1,6 @@
 # Nextion Qwery
 
-3.2" Nextion Qweerty keyboar example project for reference.
+3.2", 4.3" Nextion Qweerty keyboard example project for reference.
 
 > Sample screenshot:
 
